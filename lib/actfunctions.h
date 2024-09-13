@@ -1,0 +1,4 @@
+#ifndef ACTFUNCTIONS_H
+#define ACTFUNCTIONS_H
+
+#endif //ACTFUNCTIONS_H
